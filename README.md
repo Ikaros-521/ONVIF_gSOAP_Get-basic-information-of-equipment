@@ -1,3 +1,4 @@
+
 ## 相关配置
 
 ONVIF官网：[http://www.onvif.org/](http://www.onvif.org/)
@@ -17,7 +18,7 @@ gSOAP安装配置：[gSOAP安装配置+使用案例参考+参考链接](https://
 
 ## 代码实战
 
-完整源码下载：[GitHub](https://github.com/Ikaros-521/ONVIF_gSOAP_Get-basic-information-of-equipment)，[码云](https://gitee.com/ikaros-521/ONVIF_gSOAP_Get-basic-information-of-equipment)
+完整源码下载：[GitHub](https://github.com/Ikaros-521/ONVIF_gSOAP_Get-basic-information-of-equipment)，[码云](https://gitee.com/ikaros-521/ONVIF_gSOAP_Get_basic_information_of_equipment)
 
 如何生成ONVIF框架参考：[ONVIF协议网络摄像机（IPC）客户端程序开发（6）：使用gSOAP生成ONVIF框架代码](https://blog.csdn.net/benkaoya/article/details/72466827)
 
@@ -31,7 +32,7 @@ gSOAP安装配置：[gSOAP安装配置+使用案例参考+参考链接](https://
 
 一个设备获取不到，另一个已经成功打印相关信息。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191204160917518.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0lrYXJvc181MjE=,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://images.gitee.com/uploads/images/2019/1204/171702_9ce5de30_5140590.png)
 
 ## 补充
 
@@ -47,7 +48,7 @@ gSOAP安装配置：[gSOAP安装配置+使用案例参考+参考链接](https://
 
 设计到相关结构体，可到 **soapStub.h** 中搜索
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191204161153799.png)
+![在这里插入图片描述](https://images.gitee.com/uploads/images/2019/1204/171702_0811366d_5140590.png)
 
 
 以下提供下我搜到的一些内容，结构体__wsdd__ProbeMatches下一层套一层，我受不了了。
